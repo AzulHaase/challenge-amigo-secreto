@@ -18,4 +18,4 @@ Este es un proyecto en **JavaScript** que permite ingresar nombres de amigos en 
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuUsuario/amigo-secreto.git
+   git clone https://github.com/AzulHaase/challenge-amigo-secreto.git
